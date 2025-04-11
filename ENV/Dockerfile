@@ -1,4 +1,4 @@
 FROM almalinux
-ENV environment : "Dev" \
-    company : "TCS" \
-    project : "CITY"
+ENV environment="Dev" \
+    company="TCS" \
+    project="CITY"
